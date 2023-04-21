@@ -1,4 +1,4 @@
-# Motrix - macOS native chatGPT client
+# 🎠 Motrix - macOS native chatGPT client
 
 Download [the latest release from macOS appstore](https://apps.apple.com/us/app/id6447776319)
 
