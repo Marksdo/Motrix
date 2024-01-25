@@ -3,7 +3,7 @@
 Download [the latest release from macOS appstore](https://apps.apple.com/us/app/id6447776319)
 
 ## Features
-
+- support local LLM proxy litellm
 - You must have an GPT API Key to run Motrix App
 - Connect chatGPT API or GPT Proxy service (Custom host)
 - Group chat support
